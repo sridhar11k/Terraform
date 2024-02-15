@@ -1,0 +1,9 @@
+variable "rg_name" {}
+variable "loc_name" {}
+variable "vnet1_cidr1" {}
+variable "vnet2_cidr1" {}
+variable "prefix_subnet1" {}
+variable "prefix_subnet2" {}
+variable "prefix_subnet3" {}
+variable "env" {}
+variable "nsg" {}
